@@ -1,0 +1,6 @@
+framework module Pods_QuickPerformance {
+  umbrella header "Pods-QuickPerformance-umbrella.h"
+
+  export *
+  module * { export * }
+}

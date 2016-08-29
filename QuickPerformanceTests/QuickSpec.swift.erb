@@ -9,7 +9,7 @@
 import Quick
 import XCTest
 
-class QuickSpec1: QuickSpec {
+class QuickSpec<%= file_index %>: QuickSpec {
     override func spec() {
         it("should pass the test") {
              XCTAssertEqual(1 + 1, 2, "one plus one should equal two")

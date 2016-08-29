@@ -1,0 +1,9 @@
+#!/bin/sh
+
+input=QuickPerformanceTests/QuickSpec.swift.erb
+
+for i in `seq 1 1000`; do
+  output=QuickPerformanceTests/QuickSpec$i.swift
+  echo "Generating code to $output"
+  erb -v -T 1 file_index=$i $input > $output
+done

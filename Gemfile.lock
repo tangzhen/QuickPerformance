@@ -9,6 +9,7 @@ GEM
       tzinfo (~> 1.1)
     claide (1.0.0)
     colored (1.2)
+    colorize (0.8.1)
     i18n (0.7.0)
     json (1.8.3)
     minitest (5.8.0)
@@ -24,6 +25,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  colorize (= 0.8.1)
   xcodeproj (= 1.2.0)
 
 BUNDLED WITH

@@ -1,0 +1,6 @@
+framework module Pods_QuickPerformanceOtherTests {
+  umbrella header "Pods-QuickPerformanceOtherTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

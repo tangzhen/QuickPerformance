@@ -38,6 +38,16 @@
                ReferencedContainer = "container:QuickPerformance.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9D3F78141D76C8FA004663C9"
+               BuildableName = "QuickPerformanceOtherTests.xctest"
+               BlueprintName = "QuickPerformanceOtherTests"
+               ReferencedContainer = "container:QuickPerformance.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference

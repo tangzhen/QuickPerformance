@@ -12,7 +12,7 @@ desc 'Run all tests'
 task :run do
   puts('Run all tests')
   if check_env?
-    puts 'haha'
+    system "xctool -workspace QuickPerformance.xcworkspace -scheme QuickPerformance -destination platform='iOS Simulator,OS=9.3,name=iPhone 6s' run-tests -parallelize -test-sdk iphonesimulator9.3"
   end
 end
 

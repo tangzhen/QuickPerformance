@@ -14,6 +14,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-QuickPerformanceOtherTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-QuickPerformanceTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -27,17 +32,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0A1003F06E2FF0AA4D9A8B3929EC6F39</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>40FF1C77152F384080A1A02E90A36DA9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B1616DF33205D3DC771D08FE5E4F9C3A</key>
+		<key>8519BA62F9C1C14E229E11EC73583D27</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8DB9E9AE1265D78E5565B0B158522D27</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9F33B1C330A387F5A7E36E6B7D062DA7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

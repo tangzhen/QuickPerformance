@@ -8,10 +8,14 @@ end
 
 target 'QuickPerformance' do
   use_frameworks!
-  testing_pods
 end
 
 target 'QuickPerformanceTests' do
+  use_frameworks!
+  testing_pods
+end
+
+target 'QuickPerformanceOtherTests' do
   use_frameworks!
   testing_pods
 end
